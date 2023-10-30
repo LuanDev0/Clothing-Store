@@ -1,0 +1,17 @@
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\bin\Debug\net6.0-windows\Clothing Store.exe
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\bin\Debug\net6.0-windows\Clothing Store.deps.json
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\bin\Debug\net6.0-windows\Clothing Store.runtimeconfig.json
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\bin\Debug\net6.0-windows\Clothing Store.dll
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\bin\Debug\net6.0-windows\Clothing Store.pdb
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.csproj.AssemblyReference.cache
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.csproj.GenerateResource.cache
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.AssemblyInfoInputs.cache
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.AssemblyInfo.cs
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.csproj.CoreCompileInputs.cache
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.dll
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\refint\Clothing Store.dll
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.pdb
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing Store.genruntimeconfig.cache
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\ref\Clothing Store.dll
+C:\Users\Luan Silva\Projetos Git\Clothing-Store\Clothing Store\Clothing Store\obj\Debug\net6.0-windows\Clothing_Store.Shoes_Area.resources
